@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Developer**
 
-- 💬 Ask me about  ** || JAVA Backend Developer || **
+- 💬 Ask me about  **|| JAVA Backend Developer ||**
 
 - 📫 How to reach me **surajwap16@gmail.com**
 
