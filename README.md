@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Full Stack Developer**
 
 - 💬 Ask me about 
-- ** || Java|OOPs|SQL|MySql|DSA|HTML|CSS|JS|AWS|SpringBoot|Hibernate|JDBC || **
+- ** || JAVA Backend Developer || **
 
 - 📫 How to reach me **surajwap16@gmail.com**
 
