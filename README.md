@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Developer**
 
-- 💬 Ask me about **MERN || Java**
+- 💬 Ask me about ** || Java|OOPs|SQL|MySql|DSA|HTML|CSS|JS|AWS|SpringBoot|Hibernate|JDBC **
 
 - 📫 How to reach me **surajwap16@gmail.com**
 
